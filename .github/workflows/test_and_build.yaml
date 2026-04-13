@@ -37,4 +37,4 @@ jobs:
       uses: docker/build-push-action@v7
       with:
         push: true
-        tags: ghcr.io/Luis501Angel/python_test:latest
+        tags: ghcr.io/luis501angel/python_test:latest
